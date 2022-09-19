@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="try1:jar2">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="try1.jar">
+      <element id="module-output" name="try1" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/opencsv-5.6.jar" path-in-jar="/" />
+      <element id="module-source" name="try1" />
+      <element id="dir-copy" path="$USER_HOME$/Desktop/img" />
+    </root>
+  </artifact>
+</component>
